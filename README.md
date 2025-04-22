@@ -2,13 +2,13 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/loïc-masson-67000" target="_blank">
+  <a href="https://linkedin.com/in/loïc-masson-67000" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/17906569/lomasson" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="lomasson@student.42mulhouse.fr" target="_blank">
+  <a href="mailto:lomasson@student.42mulhouse.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
